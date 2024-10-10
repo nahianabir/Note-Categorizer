@@ -1,0 +1,29 @@
+Note,Category,Subcategory,Subcategory2
+"Meeting with the team to discuss project deadlines",Work,Meeting
+"Grocery shopping list for the weekend",Personal,Grocery
+"ajke amar mon bhalo nei",Personal,Emotion,sad
+"kalke amra movie dekhte jabo",Personal,movie,plan
+"gaan ta khub ekta valo chilo na",song,review,bad
+"tahsan er notun gaan ta shundor",song,review,good
+"taylor swift er notun album ta joss",song,review,good
+"tar gaan shunte valo lage amar",song,review,good
+"tar gaan shunte valo lage na amar",song,review,bad
+"gaan ta joss chilo",song,review,good
+"movie ta khub bhalo chilo",movie,review,good
+"movie ta khub joss chilo",movie,review,good
+"ajke onek akte hobe",Work,Personal,art
+"coffee kahwa lageb matha ta dhore geche",coffee,coffee,health
+"cha khete icche korche",tea,tea,mood
+"Brainstorming ideas for the new mobile app",Work,Brainstorming,App
+"Work-related report submission due on Monday",Work,Report,Deadline
+"Reminders for upcoming travel plans",Personal,Travel,Reminder
+"baire khub brishti porche",rain,weather,rain
+"amar brishti khub valo lage",rain,weather,rain
+"baire brishti porche",rain,weather,rain
+"baire brishti porche,coffee khete icche korche khub",rian,coffee,mood
+"baire brishti porche,cha khete icche korche khub",rain,tea,rian
+"baire brishti porche,coffee khete icche korche khub, ajke onek akte hobe",rain,coffee,art
+"baire brishti porche,cha khete icche korche khub, ajke onek akte hobe",rain,tea,art
+"baire brishti porche,coffee khete icche korche khub, ajke onek akte hobe, tahsan er notun gaan ta shundor",rain,coffee,art
+"ei masher inktober fatay dibo",Personal,art,emotion
+"ei masher inktober fatay dibo, ajke onek akte hobe",Personal,art,emotion
